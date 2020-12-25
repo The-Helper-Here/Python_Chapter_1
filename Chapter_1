@@ -1,0 +1,73 @@
+Chapter 1 - Introduction to Python and Visual Code Studio and Getting them in your system.
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+ 
+INTRODUCTION TO PYTHON AND VISUAL CODE STUDIO.
+
+Introduction to Python:
+What is Python?
+               Python is an interpreted, high-level and general-purpose programming language. Python's design philosophy emphasizes code readability with its 
+notable use of significant whitespace. Its language constructs and object-oriented approach aim to help programmers write clear, logical code for small and 
+large-scale projects. It was discovered by  Guido van Rossum.
+Further Research: https://en.wikipedia.org/wiki/Python_(programming_language)
+
+Introduction to Visual Code Studio (VS Code):
+What is Visual Code Studio?
+                           Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.[8] Features include support for 
+debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts,
+preferences, and install extensions that add additional functionality.
+Further Research: https://en.wikipedia.org/wiki/Visual_Studio_Code
+
+------------------------------------------------------------------------------------------------------
+
+GETTING VISUAL CODE STUDIO AND PYTHON IN YOUR SYSTEM.
+
+Requirements:
+            1.Disk space: 5 GB.
+            2.Operating System: (Windows7 or Later) or MacOS.
+            3.Ram: 2GB RAM (4GB preferable).
+            4.Architecture: x86 64-bit.
+
+Installing Python:
+Step 1:
+       Click the below link to go to the official Python website.
+       Link: https://www.python.org/
+Step 2:
+       Click on the download dropdown menu and select your operating system.
+       Note: Python 3.9+ cannot be used on Windows 7 or earlier. 
+             The last version of Python for the Windows XP is Python 3.8
+             Direct Download Link (64-Bit): https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe
+Step 3:
+       After downloading the installer, click on it, put a check mark on "Add to Path" and install it by pressing next.
+       Note: In case your C drive does not have enough space, when opened the installer click "Customize Installation". Click next and then select the place 
+       where you want it to get installed.
+Step 4: 
+       In your system terminal (Windows: Command Prompt/Power Shell, Mac: Terminal) and type python. 
+       You may see a interface similar to this.
+
+       Python 3.8.6 (tags/v3.8.6:db45529, Sep 23 2020, 15:52:53) [MSC v.1927 64 bit (AMD64)] on win32
+       Type "help", "copyright", "credits" or "license" for more information.
+       >>>
+
+Installing Visual Studio Code:
+Requirements:
+            1.Disk space: 1 GB.
+            2.Operating System: (Windows7 or Later) or MacOS.
+            3.Ram: 2GB RAM.
+            4.Architecture: x86 64-bit.
+Step 1:
+       Click the below link to go to the official Visual Code Studio website.
+       Link: https://code.visualstudio.com/download
+Step 2:
+       After downloading the installer, click on it and install it by pressing next. It is preferable
+       to not change the location of the installation. 
+Step 3:
+       Then open VS Code and then click on file and select open folder from the dropdown menu and       
+       select the folder you want to open.
+
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+Now you are ready to learn python!
+------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------
+End of Chapter 1.

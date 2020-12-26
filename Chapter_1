@@ -66,9 +66,12 @@ Step 3:
        select the folder you want to open.
 Step 4:
        Using the below link you can install the python extension in your VS Code which will be really helpful 
-       for writing python projects. 
+       for writing python projects.
+       Link: https://marketplace.visualstudio.com/items?itemName=ms-python.python
        Ones you have open the link and clicked the download button the page will ask permission to open VS code.(Allow it)
        After the extension is opend in VS Code click install and the installation will begin.
+       Follow the same steps for the second extension too.
+       Link: https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
 ------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
 Now you are ready to learn python!

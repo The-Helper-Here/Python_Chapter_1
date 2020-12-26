@@ -1,8 +1,8 @@
-Chapter 1 - Introduction to Python and Visual Code Studio and Getting them in your system.
+Chapter 1 - Introduction to Python and Visual Studio Code and Getting them in your system.
 ------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------
  
-INTRODUCTION TO PYTHON AND VISUAL CODE STUDIO.
+INTRODUCTION TO PYTHON AND VISUAL STUDIO CODE.
 
 Introduction to Python:
 What is Python?
@@ -11,8 +11,8 @@ notable use of significant whitespace. Its language constructs and object-orient
 large-scale projects. It was discovered by  Guido van Rossum.
 Further Research: https://en.wikipedia.org/wiki/Python_(programming_language)
 
-Introduction to Visual Code Studio (VS Code):
-What is Visual Code Studio?
+Introduction to Visual Studio Code (VS Code):
+What is Visual Studio Code?
                            Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.[8] Features include support for 
 debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts,
 preferences, and install extensions that add additional functionality.
@@ -20,7 +20,7 @@ Further Research: https://en.wikipedia.org/wiki/Visual_Studio_Code
 
 ------------------------------------------------------------------------------------------------------
 
-GETTING VISUAL CODE STUDIO AND PYTHON IN YOUR SYSTEM.
+GETTING VISUAL STUDIO CODE AND PYTHON IN YOUR SYSTEM.
 
 Requirements:
             1.Disk space: 5 GB.
@@ -49,14 +49,14 @@ Step 4:
        Type "help", "copyright", "credits" or "license" for more information.
        >>>
 
-Installing Visual Code Studio:
+Installing Visual Studio Code:
 Requirements:
             1.Disk space: 1 GB.
             2.Operating System: (Windows7 or Later) or MacOS.
             3.Ram: 2GB RAM.
             4.Architecture: x86 64-bit.
 Step 1:
-       Click the below link to go to the official Visual Code Studio website.
+       Click the below link to go to the official Visual Studio Code website.
        Link: https://code.visualstudio.com/download
 Step 2:
        After downloading the installer, click on it and install it by pressing next. It is preferable
